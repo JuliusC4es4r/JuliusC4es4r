@@ -17,3 +17,16 @@
   </a>
 </div>
 
+---
+
+### About Me : 
+
+I am an Electronics Engineer 👨‍💻 from Victoria, BC.
+
+- :telescope: I’m working currently working part time with Salyx Medical to develop their biomedical device 🔬. 
+
+- :seedling: Exploring PCB development and 3D printing.
+
+- :zap: In my free time, I build things that solve problems.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmanguerra/)
