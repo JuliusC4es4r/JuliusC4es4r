@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4x3alxYoDKbgSbcyos/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/4x3alxYoDKbgSbcyos/giphy.gif" width="450"/>
 </div>
 
 <div id="badges">
@@ -14,5 +14,3 @@
   </a>
 </div>
 
-
-<iframe src="h" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/tincubate--electronics-prototype-tincubate-4x3alxYoDKbgSbcyos">via GIPHY</a></p>
