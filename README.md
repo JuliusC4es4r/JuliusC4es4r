@@ -1,5 +1,5 @@
 # Miguel Manguerra
-Computer Engineering Graduate
+# Computer Engineering Graduate
 
 ### About Me : 
 
