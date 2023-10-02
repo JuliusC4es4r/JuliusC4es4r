@@ -1,4 +1,4 @@
-# **Miguel Manguerra, Computer Engineering Graduate**
+# **👋 Miguel Manguerra 👨🏼‍🔬**
 
 ## **About Me** : 
 
@@ -8,9 +8,9 @@ I am a Computer Engineering Graduate 👨‍💻 from Victoria, BC.
 
 - :seedling: Exploring PCB development and 3D printing.
 
-- :zap: In my free time, I build things that solve problems.
+- :zap: In my free time, I build electronics alongside my 3D printers to solve my everyday problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmanguerra/)
+- :mailbox:How to reach me [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmanguerra/)
 
 ## **My skills** : 
 
