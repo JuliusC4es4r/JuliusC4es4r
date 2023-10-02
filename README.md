@@ -1,12 +1,9 @@
 # Miguel Manguerra
----
-# Electronics Engineer
-
----
+Computer Engineering Graduate
 
 ### About Me : 
 
-I am an Electronics Engineer 👨‍💻 from Victoria, BC.
+I am a Computer Engineering Graduate 👨‍💻 from Victoria, BC.
 
 - :telescope: I’m working currently working part time with Salyx Medical to develop their biomedical device 🔬. 
 
