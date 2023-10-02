@@ -19,9 +19,7 @@ I am an Electronics Engineer 👨‍💻 from Victoria, BC.
 
 | Properties      | Data           |
 | --------------- | -------------- |
-| Language         | ![Python Badge](https://img.shields.io/badge/Python-blue) 
-                    ![C++ Badge](https://img.shields.io/badge/C++-blue) 
-                    ![C Badge](https://img.shields.io/badge/C-blue)|
+| Language         | ![Python Badge](https://img.shields.io/badge/Python-blue) ![C++ Badge](https://img.shields.io/badge/C++-blue) ![C Badge](https://img.shields.io/badge/C-blue)|
 | Skill 2         | Skill 2 Data   |
 | Skill 3         | Skill 3 Data   |
 | Skill 4         | Skill 4 Data   |
