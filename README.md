@@ -1,7 +1,6 @@
-# Miguel Manguerra
-# Computer Engineering Graduate
+# **Miguel Manguerra, Computer Engineering Graduate**
 
-### About Me : 
+## **About Me** : 
 
 I am a Computer Engineering Graduate 👨‍💻 from Victoria, BC.
 
@@ -13,9 +12,9 @@ I am a Computer Engineering Graduate 👨‍💻 from Victoria, BC.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelmanguerra/)
 
-### My skills : 
+## **My skills** : 
 
-| Properties              | Data           |
+| **Properties**              | **Data**           |
 | ----------------------- | -------------- |
 | **Languages / IDE**    | ![C Badge](https://img.shields.io/badge/C-blue) ![C++ Badge](https://img.shields.io/badge/C++-blue) ![Python Badge](https://img.shields.io/badge/Python-blue) ![Matlab Badge](https://img.shields.io/badge/Matlab-blue) ![VHDL Badge](https://img.shields.io/badge/VHDL-blue) ![SystemC Badge](https://img.shields.io/badge/SystemC-blue) ![VSCode Badge](https://img.shields.io/badge/VSCode-blue) ![Platform IO Badge](https://img.shields.io/badge/PlatformIO-blue) ![Eclipse Badge](https://img.shields.io/badge/Eclipse-blue) ![STM32Cube Badge](https://img.shields.io/badge/STM32Cube-blue) |
 | **Domain Knowledge**    | ![Analog Badge](https://img.shields.io/badge/Analog%20Electronics-blue) ![Firmware Badge](https://img.shields.io/badge/Firmware%20Development-green) ![PCB Badge](https://img.shields.io/badge/PCB%20Development-purple) ![3D printing Badge](https://img.shields.io/badge/3D%20Printing-yellow) ![Mech Badge](https://img.shields.io/badge/Mechanical%20Engineering-orange)|
