@@ -1,5 +1,8 @@
+# Miguel Manguerra
+## Electronics Engineer
+
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4x3alxYoDKbgSbcyos/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/4x3alxYoDKbgSbcyos/giphy.gif" width="300"/>
 </div>
 
 <div id="badges">
